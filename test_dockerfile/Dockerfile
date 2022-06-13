@@ -10,4 +10,4 @@ WORKDIR python-docker
 
 #COPY . .
 
-CMD [sleep 1000]
+CMD sleep 1000
